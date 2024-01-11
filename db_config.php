@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "eventra";
+$dbname = "event";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
